@@ -1,0 +1,16 @@
+body{
+  font-family: 'Open sans', sans-serif;
+  color: orangered;
+  margin: 10px 50px 10px 50px;
+  background-color: black;
+}
+body {
+  background-image: url("https://png2.cleanpng.com/sh/5555550d5a377014cdd702902cf1a6eb/L0KzQYm3VcIyN6F0g5H0aYP2gLBuTfRiepwyi9HAbIOwebrwTgZqbJZ0RdlqbXWwfMbwhBkue15yedD8aXBxPYO0VfIxO2RrUaZsM3O5dIi1VMQ4QWQ2UKs6NUK5SYSCVcQxQGE2UZD5bne=/kisspng-dark-souls-iii-video-game-luigi-s-mansion-2-5b033f94c3c6d7.4479318915269395408019.png");
+}
+h1, h2{
+  font-family: 'fire-animation', sans-serif;
+}
+
+img{
+  margin-right: 10px;
+}
